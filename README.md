@@ -1,78 +1,239 @@
 # _99# — 99 Creative Tech
 
 <p align="center">
-  <strong>The Code That Time Forgot. Rebuilt For The Future.</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030308,50:17112f,100:CCFF00&text=_99%23&fontColor=CCFF00&fontSize=80&fontAlignY=42&desc=THE%20CODE%20THAT%20TIME%20FORGOT.%20REBUILT%20FOR%20THE%20FUTURE.&descSize=16&descAlignY=68&animation=fadeIn" width="100%">
 </p>
 
 <p align="center">
-  A cinematic, interactive web experience reimagining India's <code>*99#</code> USSD banking era through futuristic UI, retro mobile culture, interactive simulation, motion design, and next-generation digital storytelling.
+  <strong>RETRO MOBILE CULTURE × FUTURISTIC WEBGL × INTERACTIVE STORYTELLING</strong>
+</p>
+
+<p align="center">
+  A cinematic frontend experience inspired by India's <code>*99#</code> USSD era — rebuilt as an experimental 3D digital interface for the future.
 </p>
 
 <p align="center">
   <a href="https://github.com/amitpratap112802-code/99-creative-tech">
-    <img src="https://img.shields.io/badge/Project-99--Creative--Tech-CCFF00?style=for-the-badge&labelColor=030308" alt="99 Creative Tech">
+    <img src="https://img.shields.io/badge/99%23-CREATIVE%20TECH-CCFF00?style=for-the-badge&labelColor=030308">
   </a>
-  <img src="https://img.shields.io/badge/HTML5-Single%20File-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Three.js-WebGL-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-  <img src="https://img.shields.io/badge/GSAP-Motion-88CE02?style=for-the-badge" alt="GSAP">
+  <img src="https://img.shields.io/badge/HTML5-SINGLE%20FILE-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Three.js-WEBGL-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/GSAP-MOTION-88CE02?style=for-the-badge">
 </p>
 
 <p align="center">
-  <a href="#-overview">Overview</a> •
+  <a href="#-experience">Experience</a> •
   <a href="#-features">Features</a> •
-  <a href="#-interactive-99-simulator">Simulator</a> •
-  <a href="#-technology-stack">Tech Stack</a> •
+  <a href="#-3d--motion">3D & Motion</a> •
+  <a href="#-technology">Technology</a> •
   <a href="#-run-locally">Run Locally</a> •
   <a href="#-roadmap">Roadmap</a>
 </p>
 
 ---
 
-## ⚡ Overview
-
-**_99#** is a concept-driven cultural technology experience inspired by India's iconic USSD banking era.
-
-The project takes the familiar idea of dialing `*99#` and rebuilds it as an immersive futuristic interface. Instead of presenting a conventional informational webpage, the experience combines **retro mobile nostalgia**, **cyberpunk visual language**, **interactive UI**, **motion graphics**, and a browser-based USSD simulator.
-
-The central idea:
+## ◈ EXPERIENCE
 
 > **Before UPI had apps, India had a code.**
 
-The experience explores how a lightweight mobile interaction model can be reimagined for a modern digital generation.
+**_99#** transforms the idea of India's iconic USSD interaction into a futuristic digital experience.
 
-The project is implemented as a **single self-contained HTML document**, with CSS and JavaScript contained within `_99#.html`, while external CDN libraries provide animation, typography, icons, smooth scrolling, and WebGL capabilities.
+Instead of functioning like a conventional portfolio or informational webpage, the project creates a visual journey through:
+
+**RETRO MOBILE CULTURE**
+
+↓  
+
+**USSD / FEATURE-PHONE ERA**
+
+↓
+
+**MODERN DIGITAL PAYMENTS**
+
+↓
+
+**AI-ASSISTED FUTURE**
+
+The result is a hybrid of **interactive product concept, cinematic website, experimental UI, digital storytelling, and frontend engineering showcase**.
 
 ---
 
-## 🎯 Project Vision
-
-The project is built around four core ideas:
-
-| Principle | Direction |
-|---|---|
-| **Nostalgia** | Recreate the visual language of early mobile and USSD experiences |
-| **Technology** | Reinterpret a legacy interaction model using modern web technologies |
-| **Accessibility** | Explore technology beyond conventional app-first interaction |
-| **Experience** | Turn a static webpage into an interactive digital narrative |
-
-Rather than simply explaining `*99#`, the website lets visitors **experience the concept through interaction**.
-
----
-
-## ✨ Features
-
-### 🟢 Cinematic Intro Sequence
-
-The experience begins with a retro-inspired loading sequence styled around the classic mobile era.
+## ◉ THE CONCEPT
 
 ```text
+                         ┌─────────────────────┐
+                         │     _99# ACTIVATED   │
+                         └──────────┬──────────┘
+                                    │
+                    ┌───────────────┼───────────────┐
+                    │               │               │
+                    ▼               ▼               ▼
+               RETRO ERA       DIGITAL ERA      FUTURE ERA
+                    │               │               │
+               Nokia / 2G          UPI             AI
+               SMS / USSD       Smartphones       Voice
+               Missed Calls      Apps             Offline AI
+                    │               │               │
+                    └───────────────┼───────────────┘
+                                    ▼
+                         ┌─────────────────────┐
+                         │   CREATIVE TECHNOLOGY│
+                         └─────────────────────┘
+
 2000s INDIA
       ↓
-Nokia Phones • SMS Era • Missed Calls
+NOKIA • SMS • MISSED CALLS
       ↓
 SYSTEM REBOOTING...
       ↓
 _99# ACTIVATED
       ↓
-MAIN EXPERIENCE
+WELCOME TO THE FUTURE
+
+*99#
+
+┌────────────────────────────┐
+│       WELCOME TO _99#      │
+├────────────────────────────┤
+│                            │
+│  1. SEND MONEY             │
+│  2. SPLIT BILL             │
+│  3. REQUEST MONEY           │
+│  4. BALANCE QUERY           │
+│  5. AI VOICE AGENT          │
+│                            │
+└────────────────────────────┘
+USER
+ │
+ ▼
+VIRTUAL KEYPAD
+ │
+ ▼
+*99#
+ │
+ ▼
+EXECUTE
+ │
+ ├───────────────┐
+ ▼               ▼
+VALID           INVALID
+ │               │
+ ▼               ▼
+CONNECTED       ERROR
+ │
+ ▼
+_99# MENU
+2005
+│
+├── MISSED CALL CULTURE
+│
+▼
+2012
+│
+├── *99# / USSD
+│
+▼
+2016
+│
+├── UPI / SMARTPHONES
+│
+▼
+2026
+│
+└── _99# REIMAGINED
+        │
+        ├── AI
+        ├── VOICE
+        ├── OFFLINE INTELLIGENCE
+        └── SPATIAL INTERACTION
+                 THREE.JS
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+      CAMERA               RENDERER
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+              PARTICLE FIELD
+                    │
+          ┌─────────┼─────────┐
+          ▼         ▼         ▼
+       POSITION    COLOR    ROTATION
+          │         │         │
+          └─────────┼─────────┘
+                    ▼
+              WEBGL FRAME
+RETRO
+│
+├── LCD
+├── CRT
+├── USSD
+├── Nokia-era UI
+└── Monospace interfaces
+
+        +
+
+FUTURE
+│
+├── WebGL
+├── Neon
+├── Glass
+├── Cyber grids
+├── Glitch
+└── Spatial motion
+_BROWSER
+   │
+   ├── HTML
+   │
+   ├── CSS
+   │
+   ├── JAVASCRIPT
+   │
+   ├── THREE.JS
+   │      └── WEBGL PARTICLES
+   │
+   ├── GSAP
+   │      └── MOTION SYSTEM
+   │
+   └── CDN DEPENDENCIES
+┌──────────────┐
+│   MOBILE     │
+└──────────────┘
+       ↓
+┌──────────────┐
+│    TABLET    │
+└──────────────┘
+       ↓
+┌──────────────┐
+│   DESKTOP    │
+└──────────────┘
+       ↓
+┌──────────────┐
+│ LARGE SCREEN │
+└──────────────┘
+99-creative-tech/
+│
+├── README.md
+│
+└── _99#.html
+
+╔══════════════════════════════════════╗
+║             RETRO INDIA              ║
+║                                      ║
+║  Nokia • 2G • SMS • USSD • Missed    ║
+║  Calls • Feature Phones              ║
+╚══════════════════╤═══════════════════╝
+                   │
+                   ▼
+              ┌─────────┐
+              │  _99#   │
+              └────┬────┘
+                   │
+                   ▼
+╔══════════════════════════════════════╗
+║            FUTURE INDIA              ║
+║                                      ║
+║  AI • Voice • Offline Intelligence   ║
+║  Spatial UI • Smart Interaction      ║
+╚══════════════════════════════════════╝
